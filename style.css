@@ -1,0 +1,29 @@
+body{
+    margin-left: 100px;
+	font-size: 20px;
+	font-family: sans-serif;
+	color: #585757;
+}
+.question{
+	font-weight: 600;
+}
+.answers {
+  margin-bottom: 20px;
+}
+.answers label{
+  display: block;
+}
+#submit{
+	font-family: sans-serif;
+	font-size: 20px;
+	background-color: #279;
+	color: #fff;
+	border: 0px;
+	border-radius: 35px;
+	padding: 15px    ;
+	cursor: pointer;
+	margin-bottom: 20px;
+}
+#submit:hover{
+	background-color: rgb(75, 48, 48);
+}
